@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MySQL",
+            "name": "next-club-db",
+            "connectString": "mysql://root:p4qRn9Vbzqsr7Aye@localhost:3306/next-club"
+        }
+    ]
+}
